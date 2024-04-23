@@ -11,4 +11,4 @@ Although there are some models that can be pretrained, I will try to deploy and 
 
 The models and their versions will use the same data to better understand and compare performance.
 
-[![MinhKint's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![MinhKint's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKint)](https://github.com/anuraghazra/github-readme-stats)
