@@ -10,3 +10,5 @@ I will leave the remaining folders with topic names or special model types.
 Although there are some models that can be pretrained, I will try to deploy and build again to gain a deeper understanding.
 
 The models and their versions will use the same data to better understand and compare performance.
+
+[![MinhKint's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
