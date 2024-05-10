@@ -1,3 +1,6 @@
+# Requirements
+For the moment this code has been tested only on Window, and python 3.9 and tf 2.10
+
 # Model
 Resporities contains all the models and projects I have learned and implemented.
 
